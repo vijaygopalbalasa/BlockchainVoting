@@ -31,9 +31,3 @@ Install MetaMask extension (https://metamask.io/download.html) and make sure to 
 - Next.js & Semantic UI React (front-end)
 - MongoDB/ExpressJS/Node.js (back-end)
 - IPFS (file storage for images)
-
-![](screenshots/unsuccessful_voting.PNG)
-
-Notification to each candidate and voter for the winner of candidates:
-
-![](screenshots/winner_candidate_mail.PNG)
